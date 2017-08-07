@@ -1,4 +1,4 @@
-# My Javascript Solutions to Cracking The Coding Interview
+# My Solutions to Find Median of Two Sorted Arrays
 
 #### These are my Solutions to median of two sorted arrays using a modified binary search (divide and conquer)
 #### Time Compexity O(n), space Complexity O(1);
