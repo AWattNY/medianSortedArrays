@@ -30,3 +30,13 @@ class findMedianTwoArrays
   return main(arr1, start1, end1, arr2, start2, end2);
   }
 }
+
+class test {
+  public static void main(String[] args) {
+    int[] A = { 1, 2, 3, 4, 4 };
+    int[] B = { 6, 9, 10, 11, 15};
+    findMedianTwoArrays findMedian = new findMedianTwoArrays();
+    System.out.println("Hello Java");
+    System.out.println(findMedian.main(A, 0, 4, B, 0, 4));
+  }    
+} 
