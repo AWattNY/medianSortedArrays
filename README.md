@@ -1,11 +1,11 @@
-##My Javascript Solutions to Cracking The Coding Interview
+# My Javascript Solutions to Cracking The Coding Interview
 
-These are my Solutions to median of two sorted arrays 
+#### These are my Solutions to median of two sorted arrays 
 
-4 Implementations
+## 4 Implementations
 
-Javascript
-Java
-Pyton
-C++
+#### Javascript
+#### Java
+#### Pyton
+#### C++
 
