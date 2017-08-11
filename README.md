@@ -7,7 +7,7 @@
 
 #### Javascript
 #### Java
-#### Pyton
+#### Python
 #### C++
 #### Swift
 
